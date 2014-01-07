@@ -18,5 +18,4 @@ end
 
 p "*" * max_word + "****"
 
-
-
+# A comment from mayormcmatt!
