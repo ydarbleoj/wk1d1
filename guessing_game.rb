@@ -1,4 +1,5 @@
-#  Guessing game 
+# Guessing game 
+# this another comment 
 
 number = rand(1..100)
 puts "Guess a number between 1 and 100"
